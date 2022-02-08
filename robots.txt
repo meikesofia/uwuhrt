@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uwuhrt.nl/sitemap.xml
