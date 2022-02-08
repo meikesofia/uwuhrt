@@ -1,5 +1,5 @@
 ---
-title: "Welcome op UWU HRT!"
+title: "Welkom op UWU HRT!"
 description: ""
 ---
 
