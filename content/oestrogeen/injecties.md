@@ -1,19 +1,29 @@
 ---
 title: "Injecties"
 date: 2022-02-08
+summary: "Informatie over injecties"
 ---
 
 ## Informate 
-Voor injecties gaan we ervan uit dat je monotherapie doet. Dat wil zeggen dat je alleen oestrogeen neemt en geen t-blockers. Dat is mogelijk omdat injecteerbare oestrogeen erg goed wordt opnemomen door je lichaam.
-
 Er zijn 3 soorten injecteerbare oestrogeen beschikbaar. 
 
-Estradiol Valerate, Estradiol Cypionate en Estradiol Enanthate. 
+<ul>
+<li>Estradiol Valerate
+<li> Estradiol Cypionate
+<li> Estradiol Enanthate 
+</ul>
 
-Estradiol Valerate is de goedkoopste variant maar werkt ook het minst lang. Estradiol Cypionate en Enanthate zijn vergelijkbaar in werkingsduur waarbij Enanthate een net iets langer halfleven heeft.
+Estradiol Valerate is het goedkoopste en makkelijkst verkrijgbaar alleen het heeft een lagere halveringstijd wat dus betekend dat je vaker een injectie moet doen.
 
-## Dosering
+Estradiol Cypionate en Estradiol Enanthate hebben een vergelijkbare halveringstijd waarbij Estradiol Enanthate iets stabielere bloedwaarden geeft
 
-Estradiol Valerate: 3-4mg elke 5 dagen
-Estradiol Enanthate: 3mg elke 7 dagen
-Estradiol Cypionate: 3mg elke 7 dagem
+## Benodigdheden
+Voor injecties heb je meer nodig dan alleen de Estradiol hieronder staat een lijste van spullen die je nodig hebt.
+<ul>
+<li>Spuitjes
+<li>Naalden
+<li>Naalden container
+<li>Alcohol doekjes
+</ul>
+
+Deze spullen kun je bij elke (online) apotheek kopen en de kosten zijn ongeveer 40 euro voor een jaar aan injectiespullen.
