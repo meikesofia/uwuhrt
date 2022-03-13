@@ -29,10 +29,10 @@
   name = "Oestrogeen"
   pageRef = "oestrogeen"
   weight = 10
-[[main]]
-  name = "Testosteron"
-  pageRef = "testosteron"
-  weight = 20
+#[[main]]
+#  name = "Testosteron"
+#  pageRef = "testosteron"
+#  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
