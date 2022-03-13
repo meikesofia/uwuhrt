@@ -1,9 +1,9 @@
 ---
-title: "T-blockers"
+title: "Testosteron remmers"
 date: 2022-02-16
-draft: false
+draft: true
 ---
 
 # TODO 
 
-Informatie over T-blockers
+Informatie over Testosteron remmers
